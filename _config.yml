@@ -18,20 +18,23 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Pierce Howell | Ph.D. Student
+name: Pierce Howell
 email: pierce.howell@gatech.edu
-description: >- # this means to ignore newlines until "baseurl:"
-  Hello! My name is Pierce Howell and I am a 3rd year Robotics Ph.D. student at the Georgia Institute of Technology. My research topics that deeply interest me are Multi-Robot Systems, Robot Learning, and Human-Robot Interaction.
+description: Personal website for Pierce Howell
 
 url: https://piercehowell.github.io
-github_username:  piercehowell
+baseurl: ""
+# github_username: piercehowell
 
-# Build settings
-#theme: minima
-remote_theme: pages-themes/tactile@v0.2.0
-plugins:
-  - jekyll-feed
-  - jekyll-remote-theme
+# markdown: kramdown
+# future: true
+
+# # Build settings
+theme: minima
+# remote_theme: pages-themes/tactile@v0.2.0
+# plugins:
+#   - jekyll-feed
+#   - jekyll-remote-theme
 
 # Exclude from processing.
 # The following items will not be processed, by default.
