@@ -1,7 +1,5 @@
 # TODO
-- [ ] Remove circular cutout of head image
-- [ ] Add key photo for works
-- 
+- [ ] Add key photo for works. To do this, make a new layout that includes an image, link to pdf, link to code. Then you can add a markdown for each publication.
 
 # Instructions
 
