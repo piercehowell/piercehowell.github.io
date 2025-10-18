@@ -11,6 +11,8 @@ You can also access my complete list of publications on [Google Scholar](https:/
 
 
 ## 2025
+* Kevin Fu, Shalin Anand Jain, **Pierce Howell**, Harish Ravichandar, "Capability-Aware Shared Hypernetworks for Flexible Heterogeneous Multi-Robot Coordination", In 9th Conference on Robot Learning (CoRL), 2025.
+
 * Kevin Fu, **Pierce Howell**, Shalin Jain, Harish Ravichandar, "Learning Flexible Heterogeneous Coordination With Capability-Aware Shared Hypernetworks", In Autonomous Agents and Multi-Agent Systems (AAMAS) - Extended Abstract, 2025.
 
 ## 2023
