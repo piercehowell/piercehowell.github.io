@@ -1,8 +1,6 @@
 ---
 layout: default
 title: publications
-categories:
-    - publications
 ---
 
 # Publications
