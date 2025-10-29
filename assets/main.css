@@ -1,5 +1,5 @@
 .about-lead {
-  font-size: 16px;
+  font-size: 14px;
   line-height: 1.6;
   color: #222;
 }
@@ -7,6 +7,6 @@
 /* Slightly smaller text on narrow screens */
 @media (max-width: 768px) {
   .about-lead {
-    font-size: 14px;
+    font-size: 12px;
   }
 }

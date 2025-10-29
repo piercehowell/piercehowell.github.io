@@ -29,7 +29,11 @@
         <div class="collapse navbar-collapse" id="navbarNav">
             <ul class="navbar-nav nav-pills ml-auto">
                 <li class="nav-link">
-                    <a class="mx-1" href={{"/publications/" | absolute_url }}>Publications</a>
+                    {% if page.url == '/' %}
+                        <a class="mx-1" href="#projects">Projects</a>
+                    {% else %}
+                        <a class="mx-1" href="{{ '/' | absolute_url }}#projects">Projects</a>
+                    {% endif %}
                 </li>
                 <li class="nav-link">
                     <a class="mx-1" href={{"/cv/" | absolute_url }}>CV</a>
